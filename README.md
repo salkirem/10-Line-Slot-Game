@@ -1,4 +1,4 @@
-# 15-Line-Slot-Game
+# 10-Line-Slot-Game
 Slot Game with sticky WILDs, scatters, free spin with multipliers to win big
 JavaScript simulation with 2M rounds of slot spin 
 
